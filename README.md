@@ -1,4 +1,4 @@
-## bem vindo ao meu perfil
+## boas vindas ao meu perfil
 
 <!--
 **annakaroline24/annakaroline24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
