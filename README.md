@@ -1,10 +1,10 @@
-## boas vindas ao meu perfil
+## bem vindo ao meu perfil  💗
 Meu nome é Anna Karoline
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript (https://cursos.alura.com.br/corp/tecnologia-e-robotica-programacao-nem-1-serie-110723-p694123
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-## Você pode entrar em contato comigo :mailbox
+## Você pode entrar em contato comigo :mailbox 📫
 a27506179@gmail.com
 @pvd.karxl
 
